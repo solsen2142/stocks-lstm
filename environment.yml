@@ -1,0 +1,13 @@
+name: stocks
+channels:
+  - python
+dependencies:
+  - python=3.7
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - tensorflow
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipykernel
