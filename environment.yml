@@ -13,3 +13,5 @@ dependencies:
   - ipykernel
   - jupyter
   - jupyterlab
+  - cudatoolkit
+  - cudnn
