@@ -6,7 +6,7 @@ dependencies:
   - scipy
   - scikit-learn
   - scikit-image
-  - tensorflow
+  - tensorflow=2.3
   - pandas
   - matplotlib
   - seaborn
@@ -15,4 +15,3 @@ dependencies:
   - jupyterlab
   - cudatoolkit
   - cudnn
-  - hyperopt
